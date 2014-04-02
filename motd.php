@@ -62,6 +62,19 @@ $characters[] = array(
 		border: 5px ridge #331122;
 	}
 	p {padding: 3px;}
+	.info {
+		width: 160px;
+		display: inline-block;
+	}
+	.image {
+		width: 130px;
+		display: inline-block;
+		margin-top: 5px;
+		margin-right: 5px;
+	}
+	h4 {
+		padding-left: 5px;
+	}
 </style>
 
 <div id="header">Vendetta</div>

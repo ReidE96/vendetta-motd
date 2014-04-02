@@ -83,10 +83,10 @@ $characters[] = array(
 <div id="bios">
 <?php
 foreach ($characters as $character) {
-	echo '<div class="bio">';
+	echo '<div class="bio"><div class="info">';
 	echo "<h4>{$character['name']}</h4>";
-	echo "<p>&nbsp;{$character['bio']}</p>";
-	echo "<img src='./imagedirectory/bioimages/{$character['image']}.png' />";
+	echo "<p>&nbsp;{$character['bio']}</p></div>";
+	echo "<div class="image"><img src='./imagedirectory/bioimages/{$character['image']}.png' /></div>";
 	echo '</div>';
 }
 ?>

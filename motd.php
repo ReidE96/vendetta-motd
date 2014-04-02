@@ -19,12 +19,12 @@ $characters[] = array(
 $characters[] = array(
 	'name' => 'Andrew \'Drew\' Willims',
 	'image' => 'Vendetta-Drew',
-	'bio' => 'An amiable war veteran, with a fondness for good food and drink, serious combat skills, and a well-buried past.'
+	'bio' => 'An amiable war veteran with a fondness for good food and drink, serious combat skills, and a well-buried past.'
 );
 $characters[] = array(
 	'name' => 'Rudy \'Baby\' Babel',
 	'image' => 'Vendetta-Rudy',
-	'bio' => 'Pithy one-liner coming soon'
+	'bio' => 'A kid just on the verge of going from a quiet gifted child, to a true mechanical genius, but never losing his... quirks.'
 );
 $characters[] = array(
 	'name' => 'Mallory Teken',

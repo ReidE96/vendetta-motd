@@ -24,7 +24,7 @@ $characters[] = array(
 $characters[] = array(
 	'name' => 'Rudy \'Baby\' Babel',
 	'image' => 'Vendetta-Rudy',
-	'bio' => 'A kid just on the verge of going from a quiet gifted child, to a true mechanical genius, but never losing his... quirks.'
+	'bio' => 'A kid just on the verge of going from a quiet gifted child to a true mechanical genius, but never losing his... quirks.'
 );
 $characters[] = array(
 	'name' => 'Mallory Teken',
@@ -57,6 +57,11 @@ $characters[] = array(
 		font-family: 'Chicle', cursive;
 		color: #aaaaaa;
 	}
+	.bio {
+		width: 250px;
+		border: 5px ridge #331122;
+	}
+	p {padding: 3px;}
 </style>
 
 <div id="header">Vendetta</div>

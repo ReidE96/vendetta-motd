@@ -29,7 +29,7 @@ $characters[] = array(
 $characters[] = array(
 	'name' => 'Mallory Teken',
 	'image' => 'Vendetta-Mallory',
-	'bio' => 'Pithy one-liner coming soon'
+	'bio' => 'A more-than-capable young pilot seeking to forge a future for herself, while keeping her ties to the Teken family concealed at all costs.'
 );
 ?>
 <link href='http://fonts.googleapis.com/css?family=Chicle|Frijole' rel='stylesheet' type='text/css'>

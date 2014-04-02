@@ -73,7 +73,7 @@ $characters[] = array(
 		margin-right: 5px;
 	}
 	h4 {
-		padding-left: 5px;
+		padding-left: 10px;
 	}
 </style>
 
@@ -85,7 +85,7 @@ $characters[] = array(
 foreach ($characters as $character) {
 	echo '<div class="bio">';
 	echo "<h4>{$character['name']}</h4>";
-	echo "<p>{$character['bio']}</p>";
+	echo "<p>&nbsp;{$character['bio']}</p>";
 	echo "<img src='./imagedirectory/bioimages/{$character['image']}.png' />";
 	echo '</div>';
 }

@@ -58,7 +58,7 @@ $characters[] = array(
 		color: #aaaaaa;
 	}
 	.bio {
-		width: 250px;
+		width: 300px;
 		border: 5px ridge #331122;
 	}
 	p {padding: 3px;}

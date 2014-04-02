@@ -58,22 +58,28 @@ $characters[] = array(
 		color: #aaaaaa;
 	}
 	.bio {
-		width: 300px;
+		width: 500px;
 		border: 5px ridge #331122;
 	}
-	p {padding: 3px;}
+	p {
+		padding: 3px;
+		font-family: 'Chicle', cursive;
+		font-size: 1.5em;
+	}
 	.info {
-		width: 160px;
+		width: 360px;
 		display: inline-block;
 	}
 	.image {
 		width: 130px;
 		display: inline-block;
-		margin-top: 5px;
-		margin-right: 5px;
+		margin: 5px;
+		margin-left: 0;
 	}
-	h4 {
+	.name {
 		padding-left: 10px;
+		font-family: 'Chicle', cursive;
+		font-size: 2em;
 	}
 </style>
 
